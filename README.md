@@ -1,0 +1,2 @@
+# teatastenet
+Crypto trader
